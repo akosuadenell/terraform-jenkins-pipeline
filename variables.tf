@@ -1,4 +1,4 @@
-variable "TF_VAR_aws_access_key" {
+/* variable "TF_VAR_aws_access_key" {
     description = "AWS Access Key"
 }
 
@@ -8,7 +8,7 @@ variable "TF_VAR_aws_secret_key" {
 
 variable "aws_session_token" {
     description = "AWS Session Token"
-}
+} */
 
 variable "aws_region" {
     description = "AWS Region"
