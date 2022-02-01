@@ -1,8 +1,8 @@
-variable "aws_access_key" {
+variable "TF_VAR_aws_access_key" {
     description = "AWS Access Key"
 }
 
-variable "aws_secret_key" {
+variable "TF_VAR_aws_secret_key" {
     description = "AWS Secret Key"
 }
 
